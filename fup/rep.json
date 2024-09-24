@@ -1,7 +1,6 @@
 {
     "expanded": [
-        "caminho-base",
-        "main_vet_ii"
+        "caminho-base"
     ],
     "tasks": {
         "tres": "10:0:0",
@@ -97,14 +96,14 @@
         "skills": 0
     },
     "new_items": [
+        "selecao_intervalo",
+        "vetores-",
         "matrizes-",
-        "selecao_circular",
         "selecao_conversao",
         "extra-",
-        "strings-",
-        "vetores-",
-        "selecao_intervalo"
+        "selecao_circular",
+        "strings-"
     ],
     "lang": "ts",
-    "index": 14
+    "index": 0
 }
